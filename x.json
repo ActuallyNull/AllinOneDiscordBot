@@ -1,0 +1,55 @@
+{
+    "request": {
+        "client": {
+            "agent": {},
+            "connection": {
+                "isp_code": 577,
+                "isp_name": "Bell Canada",
+                "type": "cable/dsl"
+            },
+            "device": {},
+            "geo": {
+                "city": "Vercheres",
+                "continent": "North America",
+                "country": "Canada",
+                "country_code": "CA",
+                "lat": 45.7786,
+                "lng": -73.3498,
+                "timezone": "America/Toronto"
+            },
+            "ip": "67.71.70.24",
+            "karma": {
+                "is_blocked": false,
+                "is_bot": false,
+                "is_crawler": false,
+                "is_friend": false,
+                "is_regular": true
+            }
+        },
+        "currency": "USD",
+        "host": "airlabs.co",
+        "id": "994bt9rm0w0",
+        "key": {
+            "api_key": "828dc9a2-bb3f-4787-9825-5fa2a054c73b",
+            "expired": null,
+            "id": 22457,
+            "limits_by_hour": 2500,
+            "limits_by_minute": 250,
+            "limits_by_month": 1000,
+            "limits_total": 1000,
+            "registered": "2023-02-07T00:53:26.000Z",
+            "type": "free"
+        },
+        "lang": "en",
+        "method": "ping",
+        "params": {
+            "lang": "en"
+        },
+        "pid": 3774864,
+        "server": "o",
+        "time": 1,
+        "version": 9
+    },
+    "response": "pong",
+    "terms": "Unauthorized access is prohibited and punishable by law. \nReselling data 'As Is' without AirLabs.Co permission is strictly prohibited. \nFull terms on https://airlabs.co/. \nContact us info@airlabs.co"
+}
